@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: Image by Teaching and Learning Lab.
   image-alt: ''
+parent_uid: 19c4678d-3d3c-5f44-297b-204b08b5f657
 resourcetype: Image
 title: categories.jpg
 uid: aa678aef-6ed4-f8a0-d1c1-10df038966ae
